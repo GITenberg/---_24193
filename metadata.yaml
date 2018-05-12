@@ -1,0 +1,31 @@
+_repo: '---_24193'
+_version: 0.1.0
+alternative_title: Yan zi jian
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruan, Dacheng
+    aliases:
+    - 阮大鋮
+    - 阮大铖
+    - 阮大鉞
+    birthdate: 1587
+    deathdate: 1646
+    gutenberg_agent_id: '26308'
+    url: http://www.gutenberg.org/2009/agents/26308
+description: ''
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24193'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese drama'
+- !lcc 'PL'
+title: 燕子箋
+url: http://www.gutenberg.org/ebooks/24193
